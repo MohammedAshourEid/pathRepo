@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67dac4f2-ffc3-46d0-8e1e-ca31228067e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.dart" beforeDir="false" afterPath="$PROJECT_DIR$/index.dart" afterDir="false" />
-    </list>
+    <list default="true" id="67dac4f2-ffc3-46d0-8e1e-ca31228067e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +20,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Dart Command Line App.index.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -41,5 +40,16 @@
       <updated>1740155601139</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
